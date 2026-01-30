@@ -1,1 +1,71 @@
-# Resume1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+     <h1>Khivieron Dumalti</h1>
+ 
+    <img src="./Pic.jpeg" alt="Profile Photo" width="200">
+
+    <h2>Summary</h2>
+    <p>
+    I am a BSIT graduate that aspires to become a web developer.
+    I have simple skills in software developement, and data management.
+    I am also good in programming languages like java, python and Html.
+    </p>
+<hr/>
+
+    <h2>Education</h2>
+    <ul>
+        <li>
+            Bachelor of Science in Information Technology
+            King's College of the Philippines<br>
+            2023 - Present
+        </li>
+        <li>
+            Senior High School<br>
+            Loo National High School<br>
+            2021 - 2023
+
+        </li>
+        <hr/>
+    </ul>
+
+    <h2>Work Experience</h2>
+    <ul>
+                <li>Programming assistant</li>
+                <li>System troubleshooting</li>
+                <li>Basic web developement</li>
+    </ul>
+<hr/>
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML5</li>
+        <li>Java coding</li>
+        <li>Canva & Figma</li>
+        <li>Communication and teamwork</li>
+    </ul>
+<hr/>
+    <h2>Awards & Certifications</h2>
+    <ul>
+        <li>Basic Jave programming skills</li>
+        <li>Basic Web Development Certificate</li>
+        <li>Exellent team Leadership</li>
+        <li>Certificate of Good moral</li>
+    </ul>
+    <hr/>
+    <h2>Others</h2>
+    <ul>
+        <li><a href="./about.html">About me</a></li>
+        <li><a href="./contact.html">Contact Details</a></li>
+    </ul> 
+<br/>
+    <footer>
+        <p> © 2026 Khivieron Dumalti. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
