@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +7,7 @@
 <body>
      <h1>Khivieron Dumalti</h1>
  
-    <img src="./Pic.jpeg" alt="Profile Photo" width="200">
+    <img src="Pic" alt="Profile Photo" width="200">
 
     <h2>Summary</h2>
     <p>
